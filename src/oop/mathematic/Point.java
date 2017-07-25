@@ -8,7 +8,7 @@ public class Point {
 
     public double DistanceFromOrigin(int x){
 
-        
+
         return Math.sqrt(this.x*this.x + this.y*this.y);
     }
 }
